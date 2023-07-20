@@ -1,0 +1,16 @@
+mj:
+  discord:
+    guild-id: 1123537810188664933
+    channel-id: 1123537810188664936
+    user-token: MTEwMDU5MTMzNjk0OTgxMzM3OQ.GLDAsY.jX-4DRXPZsin9I4cLIyZO9SIzdKIXccjqGs7aY
+    bot-token: MTEyMjgyMjkyNzg3NjkwMjk5NA.GsHLNp.95PlbohZP3p8XmgsCk6Q3EbX8NpXmMIYswSyo8
+  notion:
+    user-token: secret_Ss7YLbSF6G8xd7W1WY1jrpCGgBdyCFj540bJkfchbZY
+    database-id: f4d34941f7984493a33ddff8d549f3aa
+  proxy:
+    host: 127.0.0.1
+    port: 7890
+  api-secret: 123
+logging:
+  level:
+    javax.net: trace
