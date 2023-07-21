@@ -4,10 +4,8 @@ mj:
     channel-id: xxx
     user-token: xxx
     bot-token: xxx
+    user-wss: true
   notion:
     user-token: xxx
     database-id: xxx
-  proxy:
-    host: 127.0.0.1
-    port: 7890
   api-secret: 123
